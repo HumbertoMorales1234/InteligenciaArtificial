@@ -7,9 +7,9 @@ Contenido de la carpeta
 - Ensayo del Texto: Documento Markdown
 - Ensayo del Documental: Documento Markdown
 
-## 2.- B
+## 2.- Introducción a la Inteligencia Artificial: Tipos de Inteligencia
 
-Carpeta
+- Ensayo: Documento de Markdown
 
 ## 3.- B
 
