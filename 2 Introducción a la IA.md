@@ -41,5 +41,7 @@ En ninguno de los tipos de inteligencia se menciono alguna que tuviera una relac
 ## Fuentes de Información
 
 Regader, B. (2023, May 22). La Teoría de las inteligencias múltiples de gardner. Psicología y Mente. <https://psicologiaymente.com/inteligencia/teoria-inteligencias-multiples-gardner>
+
 Fernández, Tomás y Tamaro, Elena. «Biografia de Howard Gardner». En Biografías y Vidas. La enciclopedia biográfica en línea. Barcelona, España, 2004. Disponible en <https://www.biografiasyvidas.com/biografia/g/gardner_howard.htm>
+
 LAS MÚLTIPLES INTELIGENCIAS. (2019). Psicología Desde El Caribe, 35. <https://doi.org/10.14482/psdc.35>
