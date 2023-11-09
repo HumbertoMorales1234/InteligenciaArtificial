@@ -1,4 +1,4 @@
-# Introducción a la Inteligencia Artificial: Introspección
+# 5 Introducción a la Inteligencia Artificial: Introspección
 
 Solucionar un problema conlleva múltiples pasos ordenados en la secuencia correcta, de manera que se haga un procesado de objetos, datos, materia, etc. Que al pasar por cada uno de los pasos de la solución se transforme en un producto ya sea de la misma índole, o algo completamente distinto. El resultado depende no solo del estado en el que entra el objeto, sino de todo el procesamiento que se le realiza una vez está dentro del sistema. Por lo que distintos objetos pueden desencadenar múltiples respuestas en el mismo sistema. Para nosotros los humanos es habitual resolver múltiples problemas de distinta temática y nivel de complejidad. Consiente e inconscientemente somos capaces de evaluar las distintas características de un problema dado y generar soluciones a partir de ellas.
 

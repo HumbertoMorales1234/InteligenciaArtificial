@@ -11,30 +11,30 @@ Contenido de la carpeta
 
 - Ensayo: Documento de Markdown
 
-## 3.- B
+## 3.- Introducción a la Inteligencia Artificial: Introspección
 
-Carpeta
+- Ensayo: Documento de Markdown
 
 ## 4.- B
 
-Carpeta
+- Carpeta
 
 ## 5.- Introducción a la Inteligencia Artificial: Introspección
 
-Ensayo: Documento Markdown
-Programa: Documento de Jupyter Notebook.
+- Ensayo: Documento Markdown
+- Programa: Documento de Jupyter Notebook.
 
 ## 6.- B
 
-Carpeta
+- Carpeta
 
 ## 7.- B
 
-Carpeta
+- Carpeta
 
 ## 8.- Reglas y Búsqedas: Espacio de Estados
 
-Espacio de Estados: Documento Markdown
+- Espacio de Estados: Documento Markdown
 
 ## 9.- Generación del Dataset
 

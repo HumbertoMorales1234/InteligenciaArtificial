@@ -1,4 +1,4 @@
-# Introducción a la Inteligencia Artificial: Tipos de Inteligencia
+# 2 Introducción a la Inteligencia Artificial: Tipos de Inteligencia
 
 Durante mucho tiempo la definición de inteligencia ha sido ambigua o sesgada, de manera que los comportamientos inteligentes eran unos muy específicos que en los que solo encajaban algunos miembros de la sociedad.  El sesgo principal era que alguien inteligente era alguien con la capacidad de actuar con lógica científica y matemática, lo que se traducía a que quienes no fueran buenos o tuvieran dificultades para desarrollarse en estos aspectos fueran catalogados como no inteligentes.
 Esta perspectiva sobre la inteligencia no solo era muy reduccionista respecto al concepto de lo que es la inteligencia, sino que también desencadenó casos de discriminación hacia personas que no cumplían con las características de esta limitada definición de inteligencia. Esta definición de lo quera considerado inteligente se mantendría hasta 1987, cuando el psicólogo y pedagogo Howard Gardner presento su teoría de las inteligencias múltiples.
