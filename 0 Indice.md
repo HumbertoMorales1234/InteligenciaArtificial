@@ -24,9 +24,9 @@ Contenido de la carpeta
 - Ensayo: Documento Markdown
 - Programa: Documento de Jupyter Notebook.
 
-## 6.- B
+## 6.- Introducción a la Inteligencia Artificial: El Proceso de Razonamiento según la Lógica
 
-- Carpeta
+- Modelo matemático y programa: Documento de Jupyter Notebook.
 
 ## 7.- B
 
