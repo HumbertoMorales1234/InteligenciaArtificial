@@ -1,6 +1,6 @@
 # Indice
 
-## 1.- A
+## 1.- Introducción a la Inteligencia Artificial: Actividad 1
 
 Contenido de la carpeta
 
