@@ -11,15 +11,16 @@ Contenido de la carpeta
 
 - Ensayo: Documento de Markdown
 
-## 3.- Introducción a la Inteligencia Artificial: Introspección
+## 3.- Introducción a la Inteligencia Artificial: Introspección - Alfiles
 
 - Ensayo: Documento de Markdown
 
-## 4.- B
+## 4.- Introducción a la Inteligencia Artificial: Introspección - Islas
 
-- Carpeta
+- Ensayo: Documento de Markdown
+- Programas: Documento de Jupyter Notebook.
 
-## 5.- Introducción a la Inteligencia Artificial: Introspección
+## 5.- Introducción a la Inteligencia Artificial: Introspección - Análisis de Imagenes
 
 - Ensayo: Documento Markdown
 - Programa: Documento de Jupyter Notebook.
