@@ -29,9 +29,9 @@ Contenido de la carpeta
 
 - Modelo matemático y programa: Documento de Jupyter Notebook.
 
-## 7.- B
+## 7.- Introducción a la Inteligencia Artificial: El Papel de la Eurística
 
-- Carpeta
+- Definición de la heurística, algorítmos de solución (Iterativo / Recursivo): Documento de JupyterNotebook
 
 ## 8.- Reglas y Búsqedas: Espacio de Estados
 
