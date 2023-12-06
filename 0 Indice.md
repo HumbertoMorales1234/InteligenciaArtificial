@@ -70,4 +70,6 @@ Contenido de la Carpeta
 
 ### Extra - Video
 
-Esta carpeta contiene todos los videos mencionados a lo largo de los distintos proyectos, ya sea para la generación de los datases, así como para el testeo de los modelos.
+Esta carpeta contiene todos los videos mencionados a lo largo de los distintos proyectos, ya sea para la generación de los datases, así como para el testeo de los modelos. Debido al tamaño de los archivos no es posible subirla al repositorio. se adjunta el enlace al Zip. en Drive.
+
+<https://drive.google.com/file/d/15562XtwFlWKb5bJTfYsK377ddAwye1_y/view?usp=drive_link>
